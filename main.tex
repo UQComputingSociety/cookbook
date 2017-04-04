@@ -1,15 +1,17 @@
 \documentclass{article}
 \usepackage{cuisine}
+\usepackage{fullpage}
+
 
 \title{UQCS Cookbook}
 
 \begin{document}
 \maketitle
+
+% \RecipeWidths{Total recipe width} {Number of servings width} {Step number width} {Ingredient width} {Quantity width} {Units width}
+\RecipeWidths{\textwidth}{3cm}{0.8cm}{1.5cm}{1cm}{1.7cm}
 \input{recipes/pikelets}
 \input{recipes/kosheri.tex}
 \input{recipes/jambalaya.tex}
-
-
-
 
 \end{document}
