@@ -8,6 +8,8 @@ A book of recipes curated by the [UQCS #food channel](https://uqcs.slack.com/mes
 
 ## Contributing
 
+You are only allowed to contribute recipes that you have cooked yourself.
+
 ### Recipe format
 
 Copy `recipes/template` to a file in the `recipes` directory with a `.tex` extension. The format we follow is from the [`cuisine` latex package](https://www.ctan.org/tex-archive/macros/latex/contrib/cuisine), and documentation for `cuisine` can be [found here](http://mirror.aarnet.edu.au/pub/CTAN/macros/latex/contrib/cuisine/cuisine.pdf).
