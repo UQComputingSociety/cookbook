@@ -1,6 +1,6 @@
 # The UQCS Cookbook
 
-A book of recipes curated by the [UQCS #food channel](https://uqcs.slack.com/messages/food/).
+A book of recipes curated by the [UQCS Slack](https://slack.uqcs.org.au) [#food channel](https://uqcs.slack.com/messages/food/).
 
 [View the compiled book](https://jenkins.uqcs.org.au/job/cookbook/lastSuccessfulBuild/artifact/main.pdf)
 
