@@ -1,10 +1,10 @@
 # The UQCS Cookbook
 
-A book of recipes curated by the [UQCS Slack](https://slack.uqcs.org.au) [#food channel](https://uqcs.slack.com/messages/food/).
+A book of recipes curated by the UQCS #food channels. Join us [on Discord](https://discord.uqcs.org) to talk food and lots more with our community.
 
-[View the compiled book](https://jenkins.uqcs.org.au/job/cookbook/lastSuccessfulBuild/artifact/main.pdf)
+[View the compiled book](https://github.com/UQComputingSociety/cookbook/releases/latest/download/main.pdf)
 
-[![Build Status](https://jenkins.uqcs.org.au/job/cookbook/badge/icon)](https://jenkins.uqcs.org.au/job/cookbook/)
+[![Build Status](https://github.com/UQComputingSociety/cookbook/actions/workflows/build.yml/badge.svg)](https://github.com/UQComputingSociety/cookbook/actions/workflows/build.yml)
 
 ## Contributing
 
